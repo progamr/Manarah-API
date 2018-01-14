@@ -1,0 +1,10 @@
+{
+  "require": {
+    "php": ">=5.6.0",
+    "ext-phalcon": ">=3",
+    "ext-pgsql": "*"
+  },
+  "require-dev": {
+    "phalcon/devtools": "3.*.*@dev"
+  }
+}
